@@ -1,0 +1,29 @@
+#translate-input{
+    display: block;
+    height: 20vh;
+    width:40rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+#translate-button{
+    margin: 1rem;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color:#60A5FA;
+    color: white;
+    margin: 1rem;
+    padding: 1 rem;
+    border-style: none;
+    
+}
+div{
+    margin: 1rem;
+}
+#translate-output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 30rem;
+    margin: 1rem;
+    padding:1rem; 
+
+}
